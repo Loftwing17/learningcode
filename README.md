@@ -1,0 +1,2 @@
+# learningcode
+My coding journey
